@@ -3,9 +3,6 @@ layout: post
 title: Required Reading for Optimization - Part 1
 ---
 
-
-# Required Reading for Optimization - part 1
-
 Software optimization is hard and getting more complex.
 It's quite common to see programmers obsessing about some deep optimization
 when their code is missing a much bigger opportunity somewhere else.

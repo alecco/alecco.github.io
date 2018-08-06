@@ -1,3 +1,9 @@
+---
+layout: post
+title: Required Reading for Optimization - Part 1
+---
+
+
 # Required Reading for Optimization - part 1
 
 Software optimization is hard and getting more complex.

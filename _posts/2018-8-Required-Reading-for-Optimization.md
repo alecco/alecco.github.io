@@ -1,4 +1,4 @@
-# Required Reading for Optimization - part 2
+# Required Reading for Optimization - part 1
 
 Software optimization is hard and getting more complex.
 It's quite common to see programmers obsessing about some deep optimization
